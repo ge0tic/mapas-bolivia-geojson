@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "capitales_departamentales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "COBIJA" }, "geometry": { "type": "Point", "coordinates": [ -68.776889, -11.033967 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "TRINIDAD" }, "geometry": { "type": "Point", "coordinates": [ -64.920697, -14.849869 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "LA PAZ" }, "geometry": { "type": "Point", "coordinates": [ -68.137977, -16.491647 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "COCHABAMBA" }, "geometry": { "type": "Point", "coordinates": [ -66.170437, -17.389176 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "ORURO" }, "geometry": { "type": "Point", "coordinates": [ -67.112932, -17.966226 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "SUCRE" }, "geometry": { "type": "Point", "coordinates": [ -65.263253, -19.045371 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "POTOSI" }, "geometry": { "type": "Point", "coordinates": [ -65.756357, -19.589346 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "TARIJA" }, "geometry": { "type": "Point", "coordinates": [ -64.734997, -21.530008 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NOMBRE": "SANTA CRUZ" }, "geometry": { "type": "Point", "coordinates": [ -63.179564, -17.78894 ] } }
+]
+}
